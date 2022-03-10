@@ -1,0 +1,221 @@
+RUN	demoPetClinic.RecordedSimulation2	recordedsimulation2	1645014692334	 	3.7.4
+USER	RecordedSimulation2	START	1645014693077
+REQUEST		Open Home Page	1645014693093	1645014693103	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014693176
+REQUEST		Open Home Page	1645014693176	1645014693177	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014693271
+REQUEST		Open Home Page	1645014693272	1645014693276	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014693349
+REQUEST		Open Home Page	1645014693349	1645014693351	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014693443
+REQUEST		Open Home Page	1645014693444	1645014693447	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014693540
+REQUEST		Open Home Page	1645014693541	1645014693543	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014693632
+REQUEST		Open Home Page	1645014693633	1645014693636	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014693724
+REQUEST		Open Home Page	1645014693724	1645014693726	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014693804
+REQUEST		Open Home Page	1645014693804	1645014693807	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014693897
+REQUEST		Open Home Page	1645014693898	1645014693900	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014693990
+REQUEST		Open Home Page	1645014693991	1645014693993	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014694099
+REQUEST		Open Home Page	1645014694100	1645014694103	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014694863	1645014694869	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014694968	1645014694969	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014695014	1645014695016	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014695094
+REQUEST		Open Home Page	1645014695095	1645014695098	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014695406	1645014695408	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014695502	1645014695504	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014695767	1645014695769	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014695783	1645014695785	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014695861	1645014695863	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014696065	1645014696067	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014696067
+REQUEST		Open Home Page	1645014696068	1645014696069	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014696362	1645014696363	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners By LastName	1645014696531	1645014696533	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014696577	1645014696580	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014696716	1645014696717	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014696826	1645014696828	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners By LastName	1645014696842	1645014696843	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014697093
+REQUEST		Open Home Page	1645014697093	1645014697097	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014697406	1645014697408	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014697484	1645014697486	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Open Edit Owner Page	1645014697576	1645014697578	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014697684	1645014697685	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014697825	1645014697826	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014697871	1645014697872	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014698026	1645014698027	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014698090
+REQUEST		Open Home Page	1645014698090	1645014698092	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014698197	1645014698199	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014698355	1645014698356	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Open Edit Owner Page	1645014698402	1645014698403	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014698417	1645014698419	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014698774	1645014698778	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014698852	1645014698853	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014698911	1645014698912	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners By LastName	1645014699036	1645014699039	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014699067	1645014699068	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014699087
+REQUEST		Open Home Page	1645014699087	1645014699089	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014699304	1645014699305	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014699725	1645014699726	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014700087
+REQUEST		Open Home Page	1645014700087	1645014700089	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014700115	1645014700116	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014700131	1645014700132	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014700285	1645014700286	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014700300	1645014700301	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Update Owner	1645014700347	1645014700348	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014700363	1645014700364	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014700394	1645014700395	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Update Owner	1645014700441	1645014700443	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners By LastName	1645014700473	1645014700475	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014700553	1645014700554	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014700615	1645014700616	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014700646	1645014700647	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014700709	1645014700710	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014700835	1645014700836	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014701087
+REQUEST		Open Home Page	1645014701087	1645014701089	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Open Edit Owner Page	1645014701196	1645014701199	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014701242	1645014701243	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Vets List	1645014701943	1645014701947	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014701989	1645014701991	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014702083	1645014702084	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	START	1645014702087
+REQUEST		Open Home Page	1645014702087	1645014702088	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Open Edit Owner Page	1645014702114	1645014702115	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014702177	1645014702178	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014702209	1645014702213	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Update Owner	1645014702271	1645014702273	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014702287	1645014702288	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners Page	1645014702474	1645014702475	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014702476	1645014702491	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014702536	1645014702538	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014702707	1645014702708	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014702737	1645014702738	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Vets List	1645014702799	1645014702800	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014702955	1645014702957	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014703064	1645014703066	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014703141	1645014703143	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014703204	1645014703206	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014703394	1645014703395	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014703425	1645014703426	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014703425	1645014703426	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014703628	1645014703630	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014703924	1645014703926	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Add Owner	1645014703987	1645014703988	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Update Owner	1645014704002	1645014704004	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014704562	1645014704563	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Vets List	1645014704641	1645014704642	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014704671	1645014704673	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Edit Pet Page	1645014704687	1645014704688	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014704734	1645014704736	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	END	1645014704737
+REQUEST		GET Find Owners Page	1645014704891	1645014704893	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	END	1645014704922
+REQUEST		Get Edit Pet Page	1645014705001	1645014705003	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Vets List	1645014705125	1645014705126	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014705248	1645014705249	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014705342	1645014705343	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014705389	1645014705391	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Owner	1645014705451	1645014705452	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014705699	1645014705701	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014705715	1645014705716	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014705746	1645014705747	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014705761	1645014705763	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Edit Pet Page	1645014705841	1645014705845	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014705949	1645014705950	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014705965	1645014705966	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Edit Pet Page	1645014705995	1645014705996	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	END	1645014706336
+REQUEST		Get Edit Pet Page	1645014706523	1645014706525	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Edit Pet Page	1645014706554	1645014706555	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Edit Pet Page	1645014706617	1645014706619	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014706741	1645014706742	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014706883	1645014706886	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014706992	1645014706994	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Edit Pet Page	1645014707302	1645014707303	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Edit Pet Page	1645014707489	1645014707490	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014707505	1645014707506	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Find Owners By LastName	1645014707631	1645014707632	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014707769	1645014707770	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	END	1645014707862
+REQUEST		request_137	1645014707988	1645014707989	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014708082	1645014708083	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Edit Pet Page	1645014708377	1645014708379	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Add Pet	1645014708392	1645014708394	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014708408	1645014708410	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014708438	1645014708439	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014708469	1645014708471	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Edit Pet Page	1645014708563	1645014708567	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014708609	1645014708613	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014708749	1645014708750	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Open Edit Owner Page	1645014708969	1645014708970	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_137	1645014709000	1645014709016	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Edit Pet Page	1645014709233	1645014709235	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014709281	1645014709284	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_152	1645014709281	1645014709284	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_137	1645014709793	1645014709794	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_137	1645014709825	1645014709826	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014709873	1645014709874	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_152	1645014710076	1645014710080	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Edit Pet Page	1645014710307	1645014710308	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_137	1645014710416	1645014710417	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014710541	1645014710542	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_137	1645014710572	1645014710573	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_137	1645014710871	1645014710872	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Edit Pet Page	1645014710903	1645014710905	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Add Pet	1645014711197	1645014711199	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_137	1645014711274	1645014711275	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014711367	1645014711369	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014711383	1645014711384	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		POST Update Owner	1645014711476	1645014711477	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_152	1645014711727	1645014711728	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_152	1645014712117	1645014712118	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	END	1645014712163
+REQUEST		request_137	1645014712194	1645014712195	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_152	1645014712351	1645014712352	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_137	1645014712430	1645014712431	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014712554	1645014712555	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_152	1645014712554	1645014712555	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Get Edit Pet Page	1645014712648	1645014712649	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014712804	1645014712805	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	END	1645014712897
+REQUEST		request_137	1645014712943	1645014712945	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_152	1645014712959	1645014712960	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		GET Vets List	1645014712959	1645014712960	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_152	1645014712991	1645014712992	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_152	1645014713881	1645014713882	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_122	1645014713959	1645014713960	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_137	1645014714006	1645014714008	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	END	1645014714037
+REQUEST		request_137	1645014714068	1645014714070	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_152	1645014714208	1645014714210	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	END	1645014714317
+USER	RecordedSimulation2	END	1645014714474
+USER	RecordedSimulation2	END	1645014714521
+USER	RecordedSimulation2	END	1645014714942
+USER	RecordedSimulation2	END	1645014715097
+REQUEST		request_137	1645014715639	1645014715640	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	END	1645014715731
+REQUEST		request_152	1645014715950	1645014715952	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	END	1645014716135
+REQUEST		request_137	1645014716243	1645014716245	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_152	1645014716243	1645014716246	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	END	1645014716275
+REQUEST		request_152	1645014716853	1645014716854	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_152	1645014716899	1645014716915	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	END	1645014717337
+USER	RecordedSimulation2	END	1645014717948
+USER	RecordedSimulation2	END	1645014718010
+REQUEST		request_152	1645014718072	1645014718074	KO	j.n.ConnectException: Connection refused: no further information
+USER	RecordedSimulation2	END	1645014718957
+USER	RecordedSimulation2	END	1645014720749

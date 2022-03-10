@@ -1,0 +1,14 @@
+RUN	homeWorkGatling.RecordedSimulationFloodIO	recordedsimulationfloodio	1645378244699	 	3.7.4
+USER	RecordedSimulationFloodIO	START	1645378245420
+REQUEST		Open Homepage	1645378245433	1645378246278	KO	css((input[name='authenticity_token'],Some(@value))).find.exists, found nothing
+ERROR	Click on Start button: Failed to build request: No attribute named 'authenticity_token' is defined 	1645378249360
+REQUEST		Select age from dropdown	1645378252366	1645378252580	OK	 
+ERROR	Click on Next after age selection: Failed to build request: No attribute named 'authenticity_token' is defined 	1645378252602
+REQUEST		Please select and enter the largest order value below ...	1645378255618	1645378255834	OK	 
+ERROR	Click on Next after age max number selection: Failed to build request: No attribute named 'authenticity_token' is defined 	1645378255837
+REQUEST		Click next when you're ready.	1645378258852	1645378259068	OK	 
+ERROR	Just clicking on Next: Failed to build request: No attribute named 'authenticity_token' is defined 	1645378259070
+REQUEST		Please enter your one time token displayed above ...	1645378262076	1645378262288	OK	 
+ERROR	Click on Next after token entering: Failed to build request: No attribute named 'authenticity_token' is defined 	1645378262289
+REQUEST		Done page	1645378262290	1645378262501	OK	 
+USER	RecordedSimulationFloodIO	END	1645378262505

@@ -1,0 +1,14 @@
+RUN	homeWorkGatling.RecordedSimulationFloodIO	recordedsimulationfloodio	1645378098199	 	3.7.4
+USER	RecordedSimulationFloodIO	START	1645378098902
+REQUEST		Open Homepage	1645378098916	1645378099772	KO	j.c.CSSellyException: Illegal character <@>. (state: 4)
+ERROR	Click on Start button: Failed to build request: No attribute named 'authenticity_token' is defined 	1645378102869
+REQUEST		Select age from dropdown	1645378105879	1645378106093	OK	 
+ERROR	Click on Next after age selection: Failed to build request: No attribute named 'authenticity_token' is defined 	1645378106125
+REQUEST		Please select and enter the largest order value below ...	1645378109139	1645378109357	KO	status.find.in([200, 209], 304), found 500
+ERROR	Click on Next after age max number selection: Failed to build request: No attribute named 'authenticity_token' is defined 	1645378109360
+REQUEST		Click next when you're ready.	1645378112363	1645378112572	KO	status.find.in([200, 209], 304), found 500
+ERROR	Just clicking on Next: Failed to build request: No attribute named 'authenticity_token' is defined 	1645378112574
+REQUEST		Please enter your one time token displayed above ...	1645378115586	1645378115797	OK	 
+ERROR	Click on Next after token entering: Failed to build request: No attribute named 'authenticity_token' is defined 	1645378115799
+REQUEST		Done page	1645378115799	1645378116012	OK	 
+USER	RecordedSimulationFloodIO	END	1645378116016

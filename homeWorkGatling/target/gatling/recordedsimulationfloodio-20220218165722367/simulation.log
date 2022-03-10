@@ -1,0 +1,15 @@
+RUN	homeWorkGatling.RecordedSimulationFloodIO	recordedsimulationfloodio	1645203442367	 	3.7.4
+USER	RecordedSimulationFloodIO	START	1645203443134
+REQUEST		request_0	1645203443150	1645203443925	OK	 
+REQUEST		css?family=Lobster|Lobster+Two	1645203443989	1645203444148	OK	 
+REQUEST		request_1	1645203447166	1645203447358	OK	 
+REQUEST		Select age from dropdown	1645203450367	1645203450567	OK	 
+REQUEST		request_2	1645203450572	1645203450766	KO	status.find.in([200, 209], 304), found 302
+REQUEST		Please select and enter the largest order value below ...	1645203453788	1645203453990	OK	 
+REQUEST		request_3	1645203453995	1645203454191	KO	status.find.in([200, 209], 304), found 302
+REQUEST		Click next when you're ready.	1645203457200	1645203457395	OK	 
+REQUEST		request_4	1645203457397	1645203457590	KO	status.find.in([200, 209], 304), found 302
+REQUEST		Please enter your one time token displayed above ...	1645203460594	1645203460786	OK	 
+REQUEST		request_6	1645203460788	1645203460980	KO	status.find.in([200, 209], 304), found 302
+REQUEST		Done page	1645203460982	1645203461179	OK	 
+USER	RecordedSimulationFloodIO	END	1645203461182

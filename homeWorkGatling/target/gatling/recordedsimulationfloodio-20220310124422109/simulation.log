@@ -1,0 +1,14 @@
+RUN	homeWorkGatling.RecordedSimulationFloodIO	recordedsimulationfloodio	1646916262109	 	3.7.4
+USER	RecordedSimulationFloodIO	START	1646916263254
+REQUEST		Open Homepage	1646916263278	1646916264102	OK	 
+REQUEST		Click on Start button	1646916265211	1646916265414	OK	 
+REQUEST		Select age from dropdown	1646916266418	1646916266621	OK	 
+REQUEST		Click on Next after age selection	1646916266625	1646916266824	KO	status.find.in([200, 209], 304), found 302
+REQUEST		Please select and enter the largest order value below ...	1646916267847	1646916268058	OK	 
+REQUEST		Click on Next after age max number selection and entering	1646916268076	1646916268282	KO	status.find.in([200, 209], 304), found 302
+REQUEST		Click next when you're ready.	1646916269289	1646916269490	OK	 
+REQUEST		Just clicking on Next	1646916269493	1646916269693	KO	status.find.in([200, 209], 304), found 302
+REQUEST		Please enter your one time token displayed above ...	1646916270708	1646916270913	OK	 
+REQUEST		Click on Next after token entering	1646916270917	1646916271118	KO	status.find.in([200, 209], 304), found 302
+REQUEST		Done page	1646916271119	1646916271323	OK	 
+USER	RecordedSimulationFloodIO	END	1646916271327

@@ -1,0 +1,10 @@
+RUN	com.gatling.tests.ComputerDB	computerdb	1645537608874	0	3.7.4
+USER	ComputerDB	START	1645537609806
+REQUEST		Opening computers page	1645537609828	1645537610324	OK	 
+REQUEST		Opening new computers page	1645537612046	1645537612208	OK	 
+REQUEST		Sending new computer info	1645537614722	1645537614840	OK	 
+REQUEST		Sending new computer info Redirect 1	1645537614850	1645537614968	OK	 
+REQUEST		Searching for new record	1645537616848	1645537616963	KO	css((.well>em,None)).find.is(Nothing to displa y), but actually found Nothing to display
+REQUEST		Get single record	1645537618070	1645537618187	OK	 
+REQUEST		Edit record	1645537621077	1645537621200	OK	 
+USER	ComputerDB	END	1645537621203

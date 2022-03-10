@@ -1,0 +1,81 @@
+RUN	com.gatling.tests.ComputerDB	computerdb	1646853636544	 	3.7.4
+USER	ComputerDB	START	1646853643375
+USER	ComputerDB	START	1646853643363
+REQUEST		Opening computers page	1646853643400	1646853643923	OK	 
+REQUEST		Opening computers page	1646853643400	1646853643923	OK	 
+REQUEST		Opening new computers page	1646853645141	1646853645261	OK	 
+USER	ComputerDB	START	1646853645371
+REQUEST		Opening new computers page	1646853645371	1646853645502	OK	 
+REQUEST		Opening computers page	1646853645372	1646853646299	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853646538
+USER	ComputerDB	END	1646853646540
+USER	ComputerDB	START	1646853647370
+REQUEST		Opening new computers page	1646853647508	1646853647641	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853647690
+USER	ComputerDB	END	1646853647691
+REQUEST		Opening computers page	1646853647370	1646853647899	OK	 
+USER	ComputerDB	START	1646853649368
+REQUEST		Opening computers page	1646853649368	1646853649877	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853649911
+USER	ComputerDB	END	1646853649912
+REQUEST		Opening new computers page	1646853650736	1646853650871	OK	 
+USER	ComputerDB	START	1646853651366
+REQUEST		Opening computers page	1646853651367	1646853651882	OK	 
+REQUEST		Opening new computers page	1646853652227	1646853652361	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853652742
+USER	ComputerDB	END	1646853652743
+USER	ComputerDB	START	1646853653371
+REQUEST		Opening computers page	1646853653371	1646853653917	OK	 
+REQUEST		Opening new computers page	1646853653939	1646853654081	OK	 
+USER	ComputerDB	START	1646853654382
+REQUEST		Opening computers page	1646853654382	1646853654922	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853655033
+USER	ComputerDB	END	1646853655034
+USER	ComputerDB	START	1646853655363
+REQUEST		Opening computers page	1646853655363	1646853655849	OK	 
+USER	ComputerDB	START	1646853656373
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853656467
+USER	ComputerDB	END	1646853656468
+REQUEST		Opening new computers page	1646853656421	1646853656539	OK	 
+REQUEST		Opening computers page	1646853656374	1646853656868	OK	 
+USER	ComputerDB	START	1646853657366
+REQUEST		Opening new computers page	1646853657478	1646853657599	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853657712
+USER	ComputerDB	END	1646853657713
+REQUEST		Opening new computers page	1646853657729	1646853657845	OK	 
+REQUEST		Opening computers page	1646853657367	1646853657852	OK	 
+REQUEST		Opening new computers page	1646853657914	1646853658037	OK	 
+USER	ComputerDB	START	1646853658368
+REQUEST		Opening computers page	1646853658369	1646853658864	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853659153
+USER	ComputerDB	END	1646853659154
+USER	ComputerDB	START	1646853659378
+REQUEST		Opening computers page	1646853659378	1646853659865	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853660033
+USER	ComputerDB	END	1646853660034
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853660349
+USER	ComputerDB	END	1646853660350
+USER	ComputerDB	START	1646853660364
+REQUEST		Opening new computers page	1646853660364	1646853660982	OK	 
+REQUEST		Opening new computers page	1646853661052	1646853661182	OK	 
+USER	ComputerDB	START	1646853661365
+REQUEST		Opening computers page	1646853660365	1646853661878	OK	 
+REQUEST		Opening computers page	1646853661366	1646853661882	OK	 
+REQUEST		Opening new computers page	1646853661832	1646853661955	OK	 
+USER	ComputerDB	START	1646853662366
+REQUEST		Opening computers page	1646853662366	1646853662875	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853663529
+USER	ComputerDB	END	1646853663530
+REQUEST		Opening new computers page	1646853663450	1646853663583	OK	 
+REQUEST		Opening new computers page	1646853663529	1646853663650	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853663669
+USER	ComputerDB	END	1646853663670
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853663733
+USER	ComputerDB	END	1646853663734
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853665615
+USER	ComputerDB	END	1646853665616
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853665801
+USER	ComputerDB	END	1646853665802
+REQUEST		Opening new computers page	1646853665817	1646853665944	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853667412
+USER	ComputerDB	END	1646853667413

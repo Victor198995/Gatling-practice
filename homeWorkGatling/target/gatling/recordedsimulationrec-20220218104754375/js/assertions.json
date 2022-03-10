@@ -1,0 +1,10 @@
+{
+  "simulation": "homeWorkGatling.RecordedSimulationREC",
+  "simulationId": "recordedsimulationrec",
+  "start": 1645181274375,
+  "description": "",
+  "scenarios": ["RecordedSimulationREC"],
+  "assertions": [
+
+  ]
+}

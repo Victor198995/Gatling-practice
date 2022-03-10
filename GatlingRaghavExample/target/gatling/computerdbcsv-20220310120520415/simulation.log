@@ -1,0 +1,993 @@
+RUN	com.gatling.tests.ComputerDBcsv	computerdbcsv	1646913920415	 	3.7.4
+USER	ComputerDB	START	1646913927010
+USER	ComputerDB	START	1646913927010
+REQUEST		Opening computers page	1646913927048	1646913927548	OK	 
+REQUEST		Opening computers page	1646913927048	1646913927547	OK	 
+USER	ComputerDB	START	1646913929002
+REQUEST		Opening computers page	1646913929003	1646913929491	OK	 
+REQUEST		Opening new computers page	1646913930140	1646913930260	OK	 
+REQUEST		Opening new computers page	1646913930532	1646913930654	OK	 
+USER	ComputerDB	START	1646913930999
+REQUEST		Opening computers page	1646913931000	1646913931483	OK	 
+REQUEST		Sending new computer info	1646913931740	1646913931866	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913931766	1646913931889	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646913932263	1646913932388	OK	 
+USER	ComputerDB	START	1646913933011
+REQUEST		Searching for new record	1646913933108	1646913933231	OK	 
+REQUEST		Opening computers page	1646913933012	1646913933499	OK	 
+REQUEST		Searching for new record	1646913934256	1646913934382	OK	 
+REQUEST		Opening new computers page	1646913934271	1646913934392	OK	 
+USER	ComputerDB	START	1646913935010
+REQUEST		Sending new computer info	1646913935354	1646913935484	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913935011	1646913935501	OK	 
+REQUEST		Get single record	1646913935722	1646913935847	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646913935753	1646913935875	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646913936208	1646913936331	OK	 
+REQUEST		Opening new computers page	1646913936759	1646913936884	OK	 
+USER	ComputerDB	START	1646913936996
+REQUEST		Get single record	1646913937281	1646913937404	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646913936997	1646913937482	OK	 
+USER	ComputerDB	START	1646913938001
+REQUEST		Searching for new record	1646913938174	1646913938298	OK	 
+REQUEST		Opening computers page	1646913938002	1646913938482	OK	 
+REQUEST		Searching for new record	1646913938591	1646913938713	OK	 
+REQUEST		Edit record	1646913938652	1646913938776	OK	 
+REQUEST		Opening new computers page	1646913938745	1646913938867	OK	 
+REQUEST		Opening computers page	1646913938780	1646913938903	OK	 
+USER	ComputerDB	START	1646913938997
+REQUEST		Sending new computer info	1646913939213	1646913939336	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913938998	1646913939505	OK	 
+REQUEST		Edit record	1646913939496	1646913939642	OK	 
+REQUEST		Opening computers page	1646913939643	1646913939766	OK	 
+REQUEST		Sending new computer info	1646913939796	1646913939922	KO	status.find.is(200), but actually found 400
+USER	ComputerDB	START	1646913940009
+REQUEST		Get single record	1646913940309	1646913940434	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646913940010	1646913940492	OK	 
+REQUEST		Get single record	1646913940776	1646913940899	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+USER	ComputerDB	START	1646913941006
+REQUEST		Searching for new record	1646913940927	1646913941051	OK	 
+REQUEST		Searching for new record	1646913941177	1646913941299	OK	 
+REQUEST		Opening new computers page	1646913941302	1646913941427	OK	 
+REQUEST		Opening new computers page	1646913941317	1646913941439	OK	 
+REQUEST		Opening computers page	1646913941007	1646913941491	OK	 
+REQUEST		Sending new computer info	1646913941579	1646913941702	KO	status.find.is(200), but actually found 400
+USER	ComputerDB	START	1646913942005
+REQUEST		Opening new computers page	1646913942129	1646913942251	OK	 
+REQUEST		Opening new computers page	1646913942144	1646913942265	OK	 
+REQUEST		Opening new computers page	1646913942159	1646913942280	OK	 
+REQUEST		Opening computers page	1646913942005	1646913942494	OK	 
+REQUEST		Edit record	1646913942788	1646913942912	OK	 
+USER	ComputerDB	START	1646913943008
+REQUEST		Opening computers page	1646913942914	1646913943037	OK	 
+REQUEST		Edit record	1646913942929	1646913943051	OK	 
+REQUEST		Sending new computer info	1646913943008	1646913943131	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913943052	1646913943173	OK	 
+REQUEST		Searching for new record	1646913943319	1646913943439	OK	 
+REQUEST		Opening computers page	1646913943009	1646913943499	OK	 
+REQUEST		Get single record	1646913943631	1646913943752	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913943676	1646913943799	OK	 
+REQUEST		Sending new computer info	1646913943708	1646913943829	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646913943739	1646913943862	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+USER	ComputerDB	START	1646913944005
+REQUEST		Sending new computer info	1646913944147	1646913944273	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913944307	1646913944429	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913944006	1646913944495	OK	 
+REQUEST		Get single record	1646913944541	1646913944661	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646913944605	1646913944725	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913944681	1646913944800	OK	 
+REQUEST		Opening new computers page	1646913944807	1646913944927	OK	 
+USER	ComputerDB	START	1646913945008
+REQUEST		Sending new computer info	1646913945178	1646913945300	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646913945240	1646913945362	OK	 
+REQUEST		Opening computers page	1646913945009	1646913945495	OK	 
+REQUEST		Searching for new record	1646913945582	1646913945707	OK	 
+REQUEST		Edit record	1646913945660	1646913945781	OK	 
+REQUEST		Opening new computers page	1646913945722	1646913945842	OK	 
+REQUEST		Opening computers page	1646913945782	1646913945904	OK	 
+REQUEST		Opening new computers page	1646913945784	1646913945904	OK	 
+USER	ComputerDB	START	1646913946001
+REQUEST		Searching for new record	1646913946062	1646913946182	OK	 
+REQUEST		Edit record	1646913946126	1646913946248	OK	 
+REQUEST		Edit record	1646913946158	1646913946279	OK	 
+REQUEST		Opening computers page	1646913946249	1646913946371	OK	 
+REQUEST		Opening computers page	1646913946280	1646913946401	OK	 
+REQUEST		Opening computers page	1646913946002	1646913946484	OK	 
+REQUEST		Searching for new record	1646913946424	1646913946584	OK	 
+REQUEST		Searching for new record	1646913946660	1646913946782	OK	 
+REQUEST		Sending new computer info	1646913946722	1646913946848	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646913946913	1646913947034	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913947442	1646913947564	OK	 
+REQUEST		Opening new computers page	1646913947442	1646913947564	OK	 
+REQUEST		Sending new computer info	1646913947457	1646913947578	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913947552	1646913947674	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646913947582	1646913947707	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646913947754	1646913947878	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913947800	1646913947921	OK	 
+REQUEST		Get single record	1646913947848	1646913947972	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913948034	1646913948159	OK	 
+REQUEST		Get single record	1646913948128	1646913948249	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913948144	1646913948266	OK	 
+REQUEST		Opening computers page	1646913948268	1646913948389	OK	 
+REQUEST		Opening new computers page	1646913948456	1646913948576	OK	 
+REQUEST		Searching for new record	1646913948690	1646913948810	OK	 
+REQUEST		Get single record	1646913948940	1646913949062	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913949096	1646913949217	OK	 
+REQUEST		Searching for new record	1646913949142	1646913949264	OK	 
+REQUEST		Sending new computer info	1646913949297	1646913949420	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646913949453	1646913949573	OK	 
+REQUEST		Searching for new record	1646913949610	1646913949730	OK	 
+REQUEST		Get single record	1646913949752	1646913949874	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913949968	1646913950090	OK	 
+REQUEST		Get single record	1646913950000	1646913950120	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913950015	1646913950135	OK	 
+REQUEST		Opening computers page	1646913950091	1646913950213	OK	 
+REQUEST		Sending new computer info	1646913950092	1646913950215	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913950108	1646913950230	OK	 
+REQUEST		Opening computers page	1646913950231	1646913950353	OK	 
+REQUEST		Opening new computers page	1646913950232	1646913950353	OK	 
+REQUEST		Edit record	1646913950232	1646913950353	OK	 
+REQUEST		Sending new computer info	1646913950294	1646913950415	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913950354	1646913950475	OK	 
+REQUEST		Sending new computer info	1646913950406	1646913950527	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913950436	1646913950556	OK	 
+REQUEST		Opening computers page	1646913950558	1646913950679	OK	 
+REQUEST		Searching for new record	1646913950576	1646913950697	OK	 
+REQUEST		Sending new computer info	1646913950700	1646913950820	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646913951013	1646913951138	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913951449	1646913951574	OK	 
+REQUEST		Get single record	1646913951464	1646913951588	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913951622	1646913951744	OK	 
+REQUEST		Opening computers page	1646913951745	1646913951867	OK	 
+REQUEST		Edit record	1646913951747	1646913951873	OK	 
+REQUEST		Sending new computer info	1646913951827	1646913951949	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913951874	1646913952001	OK	 
+REQUEST		Opening new computers page	1646913951889	1646913952013	OK	 
+REQUEST		Opening new computers page	1646913952159	1646913952281	OK	 
+REQUEST		Get single record	1646913952255	1646913952377	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913952287	1646913952421	OK	 
+REQUEST		Searching for new record	1646913952303	1646913952424	OK	 
+REQUEST		Searching for new record	1646913952365	1646913952490	OK	 
+REQUEST		Get single record	1646913952603	1646913952731	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646913952761	1646913952894	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913952935	1646913953066	OK	 
+REQUEST		Opening new computers page	1646913952965	1646913953100	OK	 
+REQUEST		Opening computers page	1646913953067	1646913953195	OK	 
+REQUEST		Edit record	1646913953263	1646913953390	OK	 
+REQUEST		Get single record	1646913953373	1646913953502	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646913953392	1646913953520	OK	 
+REQUEST		Searching for new record	1646913953452	1646913953579	OK	 
+REQUEST		Sending new computer info	1646913953653	1646913953776	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646913953684	1646913953808	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913953716	1646913953839	OK	 
+REQUEST		Opening new computers page	1646913953997	1646913954119	OK	 
+REQUEST		Opening new computers page	1646913954217	1646913954338	OK	 
+REQUEST		Searching for new record	1646913954233	1646913954356	OK	 
+REQUEST		Edit record	1646913954263	1646913954385	OK	 
+REQUEST		Opening computers page	1646913954386	1646913954507	OK	 
+REQUEST		Get single record	1646913954481	1646913954606	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646913954872	1646913954995	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913954872	1646913954995	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913954887	1646913955008	OK	 
+REQUEST		Opening new computers page	1646913954982	1646913955105	OK	 
+REQUEST		Get single record	1646913955168	1646913955289	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646913955280	1646913955405	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913955296	1646913955422	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913955532	1646913955653	OK	 
+REQUEST		Edit record	1646913955641	1646913955762	OK	 
+REQUEST		Edit record	1646913955641	1646913955763	OK	 
+REQUEST		Opening computers page	1646913955654	1646913955776	OK	 
+REQUEST		Opening computers page	1646913955763	1646913955884	OK	 
+REQUEST		Opening computers page	1646913955765	1646913955886	OK	 
+REQUEST		Edit record	1646913956188	1646913956310	OK	 
+REQUEST		Sending new computer info	1646913956250	1646913956371	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646913956281	1646913956401	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646913956311	1646913956434	OK	 
+REQUEST		Sending new computer info	1646913956342	1646913956468	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913956358	1646913956480	OK	 
+REQUEST		Sending new computer info	1646913956849	1646913956971	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913956913	1646913957035	OK	 
+REQUEST		Searching for new record	1646913956945	1646913957066	OK	 
+REQUEST		Searching for new record	1646913956945	1646913957068	OK	 
+REQUEST		Opening computers page	1646913957036	1646913957158	OK	 
+REQUEST		Opening new computers page	1646913957181	1646913957301	OK	 
+REQUEST		Get single record	1646913957181	1646913957302	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913957371	1646913957492	OK	 
+REQUEST		Opening new computers page	1646913957387	1646913957509	OK	 
+REQUEST		Searching for new record	1646913957497	1646913957617	OK	 
+REQUEST		Searching for new record	1646913957759	1646913957882	OK	 
+REQUEST		Searching for new record	1646913957869	1646913957992	OK	 
+REQUEST		Opening new computers page	1646913958571	1646913958717	OK	 
+REQUEST		Sending new computer info	1646913958587	1646913958720	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913958696	1646913958818	OK	 
+REQUEST		Opening new computers page	1646913958696	1646913958819	OK	 
+REQUEST		Opening computers page	1646913958819	1646913958942	OK	 
+REQUEST		Opening new computers page	1646913958820	1646913958943	OK	 
+REQUEST		Get single record	1646913958851	1646913958972	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913958961	1646913959092	OK	 
+REQUEST		Opening computers page	1646913959092	1646913959212	OK	 
+REQUEST		Get single record	1646913959161	1646913959283	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646913959193	1646913959314	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646913959303	1646913959425	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646913959615	1646913959736	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913959757	1646913959881	OK	 
+REQUEST		Get single record	1646913959804	1646913959926	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646913959835	1646913959955	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913959927	1646913960052	OK	 
+REQUEST		Get single record	1646913959927	1646913960052	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913960555	1646913960677	OK	 
+REQUEST		Opening computers page	1646913960678	1646913960801	OK	 
+REQUEST		Opening new computers page	1646913960729	1646913960857	OK	 
+REQUEST		Edit record	1646913960949	1646913961072	OK	 
+REQUEST		Sending new computer info	1646913960965	1646913961088	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913961073	1646913961195	OK	 
+REQUEST		Get single record	1646913961369	1646913961496	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913961417	1646913961538	OK	 
+REQUEST		Edit record	1646913961464	1646913961585	OK	 
+REQUEST		Sending new computer info	1646913961527	1646913961650	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913961575	1646913961696	OK	 
+REQUEST		Opening computers page	1646913961586	1646913961706	OK	 
+REQUEST		Opening new computers page	1646913961715	1646913961836	OK	 
+REQUEST		Sending new computer info	1646913961870	1646913961992	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913962043	1646913962165	OK	 
+REQUEST		Edit record	1646913962059	1646913962179	OK	 
+REQUEST		Opening computers page	1646913962166	1646913962288	OK	 
+REQUEST		Opening computers page	1646913962179	1646913962299	OK	 
+REQUEST		Edit record	1646913962435	1646913962556	OK	 
+REQUEST		Opening computers page	1646913962557	1646913962677	OK	 
+REQUEST		Edit record	1646913962667	1646913962793	OK	 
+REQUEST		Sending new computer info	1646913962713	1646913962837	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913962794	1646913962919	OK	 
+REQUEST		Opening new computers page	1646913963038	1646913963159	OK	 
+REQUEST		Edit record	1646913963163	1646913963285	OK	 
+REQUEST		Opening computers page	1646913963286	1646913963409	OK	 
+REQUEST		Sending new computer info	1646913963413	1646913963535	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913963445	1646913963567	OK	 
+REQUEST		Opening new computers page	1646913963477	1646913963599	OK	 
+REQUEST		Sending new computer info	1646913963493	1646913963617	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646913963493	1646913963618	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913963728	1646913963849	OK	 
+REQUEST		Searching for new record	1646913963933	1646913964053	OK	 
+REQUEST		Opening new computers page	1646913963980	1646913964102	OK	 
+REQUEST		Opening new computers page	1646913964011	1646913964138	OK	 
+REQUEST		Get single record	1646913964492	1646913964612	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913964570	1646913964692	OK	 
+REQUEST		Opening new computers page	1646913964772	1646913964895	OK	 
+REQUEST		Opening new computers page	1646913964914	1646913965036	OK	 
+REQUEST		Searching for new record	1646913964914	1646913965036	OK	 
+REQUEST		Sending new computer info	1646913964944	1646913965065	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646913965101	1646913965222	OK	 
+REQUEST		Get single record	1646913965132	1646913965254	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913965272	1646913965393	OK	 
+REQUEST		Sending new computer info	1646913965272	1646913965395	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913965367	1646913965490	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646913965536	1646913965658	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646913965756	1646913965880	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913966105	1646913966226	OK	 
+REQUEST		Opening computers page	1646913966227	1646913966350	OK	 
+REQUEST		Searching for new record	1646913966248	1646913966370	OK	 
+REQUEST		Sending new computer info	1646913966248	1646913966371	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913966564	1646913966687	OK	 
+REQUEST		Sending new computer info	1646913966580	1646913966702	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646913966676	1646913966798	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646913966688	1646913966809	OK	 
+REQUEST		Sending new computer info	1646913966708	1646913966828	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913966708	1646913966831	OK	 
+REQUEST		Searching for new record	1646913966784	1646913966904	OK	 
+REQUEST		Searching for new record	1646913967112	1646913967234	OK	 
+REQUEST		Sending new computer info	1646913967208	1646913967330	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646913967239	1646913967361	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913967272	1646913967395	OK	 
+REQUEST		Opening computers page	1646913967397	1646913967520	OK	 
+REQUEST		Opening new computers page	1646913968022	1646913968146	OK	 
+REQUEST		Sending new computer info	1646913968086	1646913968208	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913968164	1646913968286	OK	 
+REQUEST		Edit record	1646913968242	1646913968364	OK	 
+REQUEST		Opening computers page	1646913968287	1646913968412	OK	 
+REQUEST		Opening computers page	1646913968365	1646913968487	OK	 
+REQUEST		Get single record	1646913968382	1646913968503	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913968474	1646913968598	OK	 
+REQUEST		Opening computers page	1646913968599	1646913968721	OK	 
+REQUEST		Edit record	1646913968792	1646913968913	OK	 
+REQUEST		Searching for new record	1646913968900	1646913969019	OK	 
+REQUEST		Opening computers page	1646913968914	1646913969033	OK	 
+REQUEST		Opening new computers page	1646913968993	1646913969114	OK	 
+REQUEST		Get single record	1646913969053	1646913969176	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913969210	1646913969330	OK	 
+REQUEST		Opening new computers page	1646913969397	1646913969518	OK	 
+REQUEST		Searching for new record	1646913969540	1646913969662	OK	 
+REQUEST		Edit record	1646913969600	1646913969722	OK	 
+REQUEST		Opening computers page	1646913969723	1646913969846	OK	 
+REQUEST		Searching for new record	1646913969742	1646913969865	OK	 
+REQUEST		Get single record	1646913969790	1646913969915	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913969806	1646913969931	OK	 
+REQUEST		Get single record	1646913970085	1646913970209	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646913970550	1646913970674	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913970564	1646913970687	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646913970564	1646913970689	OK	 
+REQUEST		Opening new computers page	1646913970610	1646913970733	OK	 
+REQUEST		Edit record	1646913971004	1646913971126	OK	 
+REQUEST		Get single record	1646913971004	1646913971127	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913971066	1646913971187	OK	 
+REQUEST		Sending new computer info	1646913971066	1646913971187	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913971127	1646913971248	OK	 
+REQUEST		Get single record	1646913971374	1646913971495	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646913971597	1646913971718	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646913971642	1646913971763	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913971687	1646913971810	OK	 
+REQUEST		Edit record	1646913971734	1646913971862	OK	 
+REQUEST		Opening computers page	1646913971811	1646913971933	OK	 
+REQUEST		Opening computers page	1646913971862	1646913971983	OK	 
+REQUEST		Sending new computer info	1646913971887	1646913972010	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646913971919	1646913972040	OK	 
+REQUEST		Get single record	1646913972045	1646913972167	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913972121	1646913972241	OK	 
+REQUEST		Opening new computers page	1646913972337	1646913972459	OK	 
+REQUEST		Searching for new record	1646913972747	1646913972869	OK	 
+REQUEST		Edit record	1646913972890	1646913973011	OK	 
+REQUEST		Opening computers page	1646913973012	1646913973133	OK	 
+REQUEST		Edit record	1646913973059	1646913973181	OK	 
+REQUEST		Edit record	1646913973171	1646913973293	OK	 
+REQUEST		Opening computers page	1646913973182	1646913973304	OK	 
+REQUEST		Searching for new record	1646913973219	1646913973341	OK	 
+REQUEST		Edit record	1646913973219	1646913973342	OK	 
+REQUEST		Opening computers page	1646913973294	1646913973413	OK	 
+REQUEST		Opening computers page	1646913973342	1646913973464	OK	 
+REQUEST		Sending new computer info	1646913973377	1646913973497	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913973597	1646913973718	OK	 
+REQUEST		Sending new computer info	1646913973677	1646913973797	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913973693	1646913973815	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646913974001	1646913974121	OK	 
+REQUEST		Opening new computers page	1646913974239	1646913974360	OK	 
+REQUEST		Edit record	1646913974302	1646913974423	OK	 
+REQUEST		Opening computers page	1646913974424	1646913974544	OK	 
+REQUEST		Opening new computers page	1646913974427	1646913974548	OK	 
+REQUEST		Sending new computer info	1646913974522	1646913974643	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913974630	1646913974752	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913974694	1646913974816	OK	 
+REQUEST		Get single record	1646913975320	1646913975441	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913975537	1646913975660	OK	 
+REQUEST		Opening new computers page	1646913975599	1646913975721	OK	 
+REQUEST		Get single record	1646913975630	1646913975752	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913975662	1646913975782	OK	 
+REQUEST		Opening new computers page	1646913975785	1646913975905	OK	 
+REQUEST		Opening new computers page	1646913975907	1646913976028	OK	 
+REQUEST		Get single record	1646913975907	1646913976028	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646913976014	1646913976134	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913976172	1646913976292	OK	 
+REQUEST		Opening new computers page	1646913976203	1646913976324	OK	 
+REQUEST		Get single record	1646913976234	1646913976355	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646913976282	1646913976405	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913976636	1646913976760	OK	 
+REQUEST		Sending new computer info	1646913976763	1646913976885	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913976952	1646913977071	OK	 
+REQUEST		Sending new computer info	1646913977031	1646913977151	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913977752	1646913977874	OK	 
+REQUEST		Edit record	1646913977784	1646913977907	OK	 
+REQUEST		Opening computers page	1646913977875	1646913977998	OK	 
+REQUEST		Opening computers page	1646913977908	1646913978031	OK	 
+REQUEST		Get single record	1646913977974	1646913978095	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913978242	1646913978364	OK	 
+REQUEST		Get single record	1646913978352	1646913978473	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646913978352	1646913978473	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913978430	1646913978563	OK	 
+REQUEST		Get single record	1646913978477	1646913978601	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646913978564	1646913978689	OK	 
+REQUEST		Sending new computer info	1646913978760	1646913978888	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913979013	1646913979136	OK	 
+REQUEST		Searching for new record	1646913979107	1646913979229	OK	 
+REQUEST		Sending new computer info	1646913979107	1646913979229	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646913979107	1646913979232	OK	 
+REQUEST		Edit record	1646913979123	1646913979245	OK	 
+REQUEST		Get single record	1646913979185	1646913979314	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646913979246	1646913979375	OK	 
+REQUEST		Get single record	1646913979325	1646913979447	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913979515	1646913979640	OK	 
+REQUEST		Edit record	1646913979909	1646913980032	OK	 
+REQUEST		Opening computers page	1646913980033	1646913980157	OK	 
+REQUEST		Edit record	1646913980221	1646913980349	OK	 
+REQUEST		Opening new computers page	1646913980283	1646913980408	OK	 
+REQUEST		Get single record	1646913980299	1646913980424	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646913980350	1646913980472	OK	 
+REQUEST		Opening new computers page	1646913980519	1646913980641	OK	 
+REQUEST		Edit record	1646913980675	1646913980798	OK	 
+REQUEST		Opening computers page	1646913980799	1646913980921	OK	 
+REQUEST		Searching for new record	1646913980899	1646913981026	OK	 
+REQUEST		Sending new computer info	1646913981025	1646913981158	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913981165	1646913981294	OK	 
+REQUEST		Get single record	1646913981243	1646913981374	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646913981385	1646913981514	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913981507	1646913981632	OK	 
+REQUEST		Sending new computer info	1646913981603	1646913981728	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913981633	1646913981756	OK	 
+REQUEST		Searching for new record	1646913981650	1646913981775	OK	 
+REQUEST		Opening new computers page	1646913981806	1646913981929	OK	 
+REQUEST		Opening new computers page	1646913981927	1646913982049	OK	 
+REQUEST		Edit record	1646913981927	1646913982056	OK	 
+REQUEST		Get single record	1646913981988	1646913982114	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646913982057	1646913982181	OK	 
+REQUEST		Edit record	1646913982237	1646913982359	OK	 
+REQUEST		Sending new computer info	1646913982253	1646913982379	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913982360	1646913982488	OK	 
+REQUEST		Opening new computers page	1646913982518	1646913982645	OK	 
+REQUEST		Edit record	1646913982755	1646913982888	OK	 
+REQUEST		Opening computers page	1646913982888	1646913983022	OK	 
+REQUEST		Get single record	1646913983099	1646913983232	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646913983349	1646913983475	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913983617	1646913983742	OK	 
+REQUEST		Edit record	1646913983665	1646913983787	OK	 
+REQUEST		Opening new computers page	1646913983665	1646913983788	OK	 
+REQUEST		Opening computers page	1646913983788	1646913983908	OK	 
+REQUEST		Searching for new record	1646913983819	1646913983941	OK	 
+REQUEST		Opening new computers page	1646913983864	1646913983986	OK	 
+REQUEST		Sending new computer info	1646913983864	1646913983986	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913983942	1646913984064	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913983957	1646913984079	OK	 
+REQUEST		Get single record	1646913984266	1646913984389	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913984328	1646913984455	OK	 
+REQUEST		Edit record	1646913984564	1646913984685	OK	 
+REQUEST		Searching for new record	1646913984674	1646913984795	OK	 
+REQUEST		Opening computers page	1646913984686	1646913984808	OK	 
+REQUEST		Edit record	1646913984690	1646913984811	OK	 
+REQUEST		Opening computers page	1646913984811	1646913984932	OK	 
+REQUEST		Sending new computer info	1646913984922	1646913985043	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646913985128	1646913985253	OK	 
+REQUEST		Sending new computer info	1646913985325	1646913985445	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913985404	1646913985523	OK	 
+REQUEST		Edit record	1646913985688	1646913985809	OK	 
+REQUEST		Sending new computer info	1646913985734	1646913985857	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913985810	1646913985930	OK	 
+REQUEST		Get single record	1646913985829	1646913985951	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913985844	1646913985966	OK	 
+REQUEST		Opening new computers page	1646913985997	1646913986124	OK	 
+REQUEST		Get single record	1646913986106	1646913986230	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646913986183	1646913986306	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913986245	1646913986367	OK	 
+REQUEST		Opening computers page	1646913986368	1646913986490	OK	 
+REQUEST		Opening new computers page	1646913986526	1646913986651	OK	 
+REQUEST		Get single record	1646913986638	1646913986763	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913986685	1646913986806	OK	 
+REQUEST		Opening new computers page	1646913986809	1646913986932	OK	 
+REQUEST		Sending new computer info	1646913986871	1646913986994	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913986935	1646913987056	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913987706	1646913987826	OK	 
+REQUEST		Get single record	1646913987801	1646913987922	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646913987817	1646913987938	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913987894	1646913988014	OK	 
+REQUEST		Searching for new record	1646913988004	1646913988126	OK	 
+REQUEST		Searching for new record	1646913988004	1646913988126	OK	 
+REQUEST		Edit record	1646913988162	1646913988284	OK	 
+REQUEST		Opening computers page	1646913988284	1646913988405	OK	 
+REQUEST		Edit record	1646913988458	1646913988580	OK	 
+REQUEST		Edit record	1646913988474	1646913988595	OK	 
+REQUEST		Sending new computer info	1646913988521	1646913988644	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913988580	1646913988702	OK	 
+REQUEST		Opening computers page	1646913988596	1646913988717	OK	 
+REQUEST		Searching for new record	1646913988797	1646913988918	OK	 
+REQUEST		Sending new computer info	1646913988813	1646913988935	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646913988937	1646913989059	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913989473	1646913989592	OK	 
+REQUEST		Sending new computer info	1646913989505	1646913989626	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913989521	1646913989641	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913989647	1646913989767	OK	 
+REQUEST		Opening new computers page	1646913989647	1646913989769	OK	 
+REQUEST		Get single record	1646913989694	1646913989815	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646913990258	1646913990380	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913990321	1646913990442	OK	 
+REQUEST		Opening new computers page	1646913990321	1646913990444	OK	 
+REQUEST		Edit record	1646913990414	1646913990534	OK	 
+REQUEST		Opening computers page	1646913990443	1646913990564	OK	 
+REQUEST		Opening computers page	1646913990535	1646913990656	OK	 
+REQUEST		Opening new computers page	1646913990681	1646913990804	OK	 
+REQUEST		Searching for new record	1646913990681	1646913990803	OK	 
+REQUEST		Get single record	1646913990696	1646913990818	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913990823	1646913990945	OK	 
+REQUEST		Searching for new record	1646913990855	1646913990975	OK	 
+REQUEST		Sending new computer info	1646913990855	1646913990977	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913990946	1646913991067	OK	 
+REQUEST		Searching for new record	1646913990983	1646913991104	OK	 
+REQUEST		Searching for new record	1646913991029	1646913991150	OK	 
+REQUEST		Get single record	1646913991060	1646913991181	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646913991201	1646913991324	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913991563	1646913991685	OK	 
+REQUEST		Opening new computers page	1646913991675	1646913991796	OK	 
+REQUEST		Opening computers page	1646913991686	1646913991807	OK	 
+REQUEST		Sending new computer info	1646913991752	1646913991875	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913992056	1646913992179	OK	 
+REQUEST		Sending new computer info	1646913992072	1646913992193	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913992152	1646913992275	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913992179	1646913992303	OK	 
+REQUEST		Edit record	1646913992200	1646913992321	OK	 
+REQUEST		Get single record	1646913992246	1646913992369	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646913992322	1646913992444	OK	 
+REQUEST		Opening new computers page	1646913992678	1646913992800	OK	 
+REQUEST		Searching for new record	1646913992724	1646913992846	OK	 
+REQUEST		Edit record	1646913993244	1646913993365	OK	 
+REQUEST		Get single record	1646913993276	1646913993401	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646913993324	1646913993447	OK	 
+REQUEST		Opening computers page	1646913993366	1646913993487	OK	 
+REQUEST		Sending new computer info	1646913993372	1646913993493	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913993404	1646913993525	OK	 
+REQUEST		Opening computers page	1646913993448	1646913993570	OK	 
+REQUEST		Opening computers page	1646913993526	1646913993650	OK	 
+REQUEST		Get single record	1646913993590	1646913993710	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913993748	1646913993868	OK	 
+REQUEST		Get single record	1646913993858	1646913993982	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913993982	1646913994103	OK	 
+REQUEST		Get single record	1646913994106	1646913994226	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646913994152	1646913994272	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646913994182	1646913994304	OK	 
+REQUEST		Opening new computers page	1646913994416	1646913994538	OK	 
+REQUEST		Searching for new record	1646913994478	1646913994598	OK	 
+REQUEST		Opening new computers page	1646913994778	1646913994900	OK	 
+REQUEST		Opening new computers page	1646913994809	1646913994931	OK	 
+REQUEST		Opening new computers page	1646913994809	1646913994934	OK	 
+REQUEST		Searching for new record	1646913994824	1646913994948	OK	 
+REQUEST		Sending new computer info	1646913995136	1646913995258	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646913995312	1646913995439	OK	 
+REQUEST		Searching for new record	1646913995690	1646913995811	OK	 
+REQUEST		Sending new computer info	1646913995892	1646913996014	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913996079	1646913996201	OK	 
+REQUEST		Sending new computer info	1646913996124	1646913996247	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913996188	1646913996312	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913996202	1646913996324	OK	 
+REQUEST		Edit record	1646913996282	1646913996407	OK	 
+REQUEST		Sending new computer info	1646913996298	1646913996421	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646913996314	1646913996438	OK	 
+REQUEST		Opening computers page	1646913996407	1646913996532	OK	 
+REQUEST		Opening computers page	1646913996439	1646913996565	OK	 
+REQUEST		Searching for new record	1646913996544	1646913996667	OK	 
+REQUEST		Edit record	1646913996747	1646913996870	OK	 
+REQUEST		Sending new computer info	1646913996747	1646913996870	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646913996779	1646913996901	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646913996871	1646913996994	OK	 
+REQUEST		Get single record	1646913997113	1646913997237	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646913997193	1646913997313	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646913997555	1646913997674	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646913997677	1646913997797	OK	 
+REQUEST		Get single record	1646913997929	1646913998053	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913997992	1646913998115	OK	 
+REQUEST		Get single record	1646913998023	1646913998144	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646913998291	1646913998413	OK	 
+REQUEST		Searching for new record	1646913998493	1646913998613	OK	 
+REQUEST		Searching for new record	1646913998727	1646913998850	OK	 
+REQUEST		Opening new computers page	1646913998743	1646913998865	OK	 
+REQUEST		Searching for new record	1646913998759	1646913998880	OK	 
+REQUEST		Edit record	1646913998853	1646913998976	OK	 
+REQUEST		Opening computers page	1646913998978	1646913999103	OK	 
+REQUEST		Searching for new record	1646913999022	1646913999148	OK	 
+REQUEST		Searching for new record	1646913999069	1646913999194	OK	 
+REQUEST		Opening new computers page	1646913999145	1646913999270	OK	 
+REQUEST		Edit record	1646913999193	1646913999315	OK	 
+REQUEST		Edit record	1646913999288	1646913999412	OK	 
+REQUEST		Opening computers page	1646913999316	1646913999438	OK	 
+REQUEST		Opening computers page	1646913999413	1646913999537	OK	 
+REQUEST		Sending new computer info	1646913999427	1646913999549	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646913999708	1646913999831	OK	 
+REQUEST		Edit record	1646913999724	1646913999849	OK	 
+REQUEST		Opening computers page	1646913999849	1646913999972	OK	 
+REQUEST		Get single record	1646913999898	1646914000023	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914000150	1646914000271	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646914000322	1646914000444	OK	 
+REQUEST		Get single record	1646914000647	1646914000770	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914000663	1646914000784	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914000725	1646914000847	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914000914	1646914001036	OK	 
+REQUEST		Opening new computers page	1646914000914	1646914001036	OK	 
+REQUEST		Opening computers page	1646914001037	1646914001157	OK	 
+REQUEST		Get single record	1646914001136	1646914001256	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646914001228	1646914001350	OK	 
+REQUEST		Opening new computers page	1646914001411	1646914001534	OK	 
+REQUEST		Sending new computer info	1646914001617	1646914001739	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914001633	1646914001753	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914001710	1646914001831	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914001802	1646914001922	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914001928	1646914002053	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914001976	1646914002097	OK	 
+REQUEST		Edit record	1646914002054	1646914002175	OK	 
+REQUEST		Opening computers page	1646914002097	1646914002219	OK	 
+REQUEST		Sending new computer info	1646914002146	1646914002267	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646914002176	1646914002298	OK	 
+REQUEST		Searching for new record	1646914002272	1646914002391	OK	 
+REQUEST		Edit record	1646914002664	1646914002785	OK	 
+REQUEST		Edit record	1646914002696	1646914002821	OK	 
+REQUEST		Opening computers page	1646914002785	1646914002907	OK	 
+REQUEST		Edit record	1646914002808	1646914002928	OK	 
+REQUEST		Opening computers page	1646914002822	1646914002943	OK	 
+REQUEST		Edit record	1646914002856	1646914002976	OK	 
+REQUEST		Opening computers page	1646914002928	1646914003048	OK	 
+REQUEST		Opening computers page	1646914002977	1646914003097	OK	 
+REQUEST		Opening new computers page	1646914003044	1646914003168	OK	 
+REQUEST		Searching for new record	1646914003152	1646914003275	OK	 
+REQUEST		Searching for new record	1646914003320	1646914003439	OK	 
+REQUEST		Opening new computers page	1646914003646	1646914003767	OK	 
+REQUEST		Sending new computer info	1646914003740	1646914003865	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646914003756	1646914003878	OK	 
+REQUEST		Opening new computers page	1646914004259	1646914004380	OK	 
+REQUEST		Get single record	1646914004259	1646914004380	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646914004383	1646914004504	OK	 
+REQUEST		Get single record	1646914004413	1646914004534	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914004428	1646914004547	OK	 
+REQUEST		Sending new computer info	1646914004506	1646914004627	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914004552	1646914004673	OK	 
+REQUEST		Searching for new record	1646914004552	1646914004674	OK	 
+REQUEST		Searching for new record	1646914004613	1646914004733	OK	 
+REQUEST		Opening new computers page	1646914004660	1646914004781	OK	 
+REQUEST		Opening computers page	1646914004673	1646914004793	OK	 
+REQUEST		Get single record	1646914005110	1646914005230	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646914005156	1646914005277	OK	 
+REQUEST		Sending new computer info	1646914005201	1646914005323	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914005672	1646914005792	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914006000	1646914006122	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914006110	1646914006233	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914006110	1646914006234	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914006110	1646914006234	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914006327	1646914006450	OK	 
+REQUEST		Searching for new record	1646914006341	1646914006463	OK	 
+REQUEST		Opening computers page	1646914006450	1646914006571	OK	 
+REQUEST		Searching for new record	1646914006608	1646914006733	OK	 
+REQUEST		Get single record	1646914006825	1646914006946	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914006965	1646914007085	OK	 
+REQUEST		Opening computers page	1646914007086	1646914007206	OK	 
+REQUEST		Opening new computers page	1646914007106	1646914007226	OK	 
+REQUEST		Get single record	1646914007465	1646914007585	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914007529	1646914007648	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914007559	1646914007678	OK	 
+REQUEST		Searching for new record	1646914007837	1646914007957	OK	 
+REQUEST		Edit record	1646914007962	1646914008082	OK	 
+REQUEST		Opening computers page	1646914008082	1646914008202	OK	 
+REQUEST		Sending new computer info	1646914008148	1646914008269	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646914008364	1646914008484	OK	 
+REQUEST		Searching for new record	1646914008410	1646914008532	OK	 
+REQUEST		Opening new computers page	1646914008425	1646914008544	OK	 
+REQUEST		Get single record	1646914008502	1646914008623	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914008674	1646914008795	OK	 
+REQUEST		Searching for new record	1646914008937	1646914009060	OK	 
+REQUEST		Opening new computers page	1646914009014	1646914009136	OK	 
+REQUEST		Get single record	1646914009030	1646914009152	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914009184	1646914009304	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914009184	1646914009306	OK	 
+REQUEST		Opening computers page	1646914009306	1646914009428	OK	 
+REQUEST		Edit record	1646914009386	1646914009508	OK	 
+REQUEST		Opening computers page	1646914009508	1646914009628	OK	 
+REQUEST		Searching for new record	1646914009559	1646914009683	OK	 
+REQUEST		Get single record	1646914009589	1646914009711	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646914009682	1646914009802	OK	 
+REQUEST		Get single record	1646914009964	1646914010085	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914010026	1646914010159	OK	 
+REQUEST		Opening computers page	1646914010160	1646914010286	OK	 
+REQUEST		Sending new computer info	1646914010212	1646914010332	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646914010381	1646914010502	OK	 
+REQUEST		Get single record	1646914010476	1646914010600	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914010634	1646914010757	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914010649	1646914010770	OK	 
+REQUEST		Edit record	1646914010726	1646914010846	OK	 
+REQUEST		Opening computers page	1646914010771	1646914010892	OK	 
+REQUEST		Opening computers page	1646914010847	1646914010967	OK	 
+REQUEST		Edit record	1646914010897	1646914011021	OK	 
+REQUEST		Opening computers page	1646914011022	1646914011162	OK	 
+REQUEST		Get single record	1646914011064	1646914011204	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914011247	1646914011385	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914011293	1646914011420	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914011646	1646914011778	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914011735	1646914011872	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646914011826	1646914011955	OK	 
+REQUEST		Edit record	1646914011886	1646914012010	OK	 
+REQUEST		Opening new computers page	1646914011964	1646914012110	OK	 
+REQUEST		Opening computers page	1646914012013	1646914012136	OK	 
+REQUEST		Opening new computers page	1646914012226	1646914012377	OK	 
+REQUEST		Opening new computers page	1646914012241	1646914012383	OK	 
+REQUEST		Sending new computer info	1646914012410	1646914012540	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646914012486	1646914012633	OK	 
+REQUEST		Edit record	1646914012685	1646914012826	OK	 
+REQUEST		Edit record	1646914012820	1646914012953	OK	 
+REQUEST		Opening computers page	1646914012827	1646914012988	OK	 
+REQUEST		Searching for new record	1646914012865	1646914012999	OK	 
+REQUEST		Opening computers page	1646914012953	1646914013096	OK	 
+REQUEST		Searching for new record	1646914012956	1646914013096	OK	 
+REQUEST		Edit record	1646914013077	1646914013225	OK	 
+REQUEST		Opening computers page	1646914013226	1646914013362	OK	 
+REQUEST		Opening new computers page	1646914013260	1646914013400	OK	 
+REQUEST		Edit record	1646914013320	1646914013476	OK	 
+REQUEST		Edit record	1646914013396	1646914013545	OK	 
+REQUEST		Opening new computers page	1646914013471	1646914013630	OK	 
+REQUEST		Opening computers page	1646914013477	1646914013633	OK	 
+REQUEST		Opening computers page	1646914013546	1646914013689	OK	 
+REQUEST		Sending new computer info	1646914013789	1646914013917	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914013895	1646914014023	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914014151	1646914014313	OK	 
+REQUEST		Sending new computer info	1646914014213	1646914014340	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914014291	1646914014421	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914014307	1646914014433	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646914014314	1646914014437	OK	 
+REQUEST		Searching for new record	1646914014580	1646914014701	OK	 
+REQUEST		Opening new computers page	1646914014658	1646914014785	OK	 
+REQUEST		Sending new computer info	1646914014951	1646914015074	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646914015072	1646914015216	OK	 
+REQUEST		Opening new computers page	1646914015133	1646914015258	OK	 
+REQUEST		Sending new computer info	1646914015133	1646914015260	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914015273	1646914015397	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914015334	1646914015461	OK	 
+REQUEST		Sending new computer info	1646914015456	1646914015589	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646914015810	1646914015936	OK	 
+REQUEST		Opening new computers page	1646914016075	1646914016203	OK	 
+REQUEST		Opening new computers page	1646914016249	1646914016377	OK	 
+REQUEST		Searching for new record	1646914016265	1646914016392	OK	 
+REQUEST		Searching for new record	1646914016265	1646914016392	OK	 
+REQUEST		Sending new computer info	1646914016422	1646914016550	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914016675	1646914016804	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914016771	1646914016904	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914017071	1646914017201	OK	 
+REQUEST		Opening new computers page	1646914017071	1646914017201	OK	 
+REQUEST		Opening computers page	1646914017202	1646914017329	OK	 
+REQUEST		Searching for new record	1646914017242	1646914017371	OK	 
+REQUEST		Get single record	1646914017337	1646914017464	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914017536	1646914017663	OK	 
+REQUEST		Get single record	1646914017536	1646914017663	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914017646	1646914017772	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914017661	1646914017787	OK	 
+REQUEST		Searching for new record	1646914017661	1646914017787	OK	 
+REQUEST		Sending new computer info	1646914017692	1646914017820	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646914017788	1646914017915	OK	 
+REQUEST		Get single record	1646914017892	1646914018022	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914018286	1646914018414	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914018714	1646914018843	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914018731	1646914018862	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914018994	1646914019125	OK	 
+REQUEST		Opening computers page	1646914019126	1646914019253	OK	 
+REQUEST		Edit record	1646914019260	1646914019383	OK	 
+REQUEST		Get single record	1646914019340	1646914019466	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646914019383	1646914019510	OK	 
+REQUEST		Searching for new record	1646914019480	1646914019609	OK	 
+REQUEST		Searching for new record	1646914019528	1646914019656	OK	 
+REQUEST		Searching for new record	1646914019791	1646914019933	OK	 
+REQUEST		Edit record	1646914019868	1646914019998	OK	 
+REQUEST		Opening new computers page	1646914019884	1646914020016	OK	 
+REQUEST		Edit record	1646914019900	1646914020032	OK	 
+REQUEST		Opening computers page	1646914019999	1646914020130	OK	 
+REQUEST		Sending new computer info	1646914020010	1646914020143	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914020026	1646914020158	OK	 
+REQUEST		Opening computers page	1646914020033	1646914020158	OK	 
+REQUEST		Opening computers page	1646914020159	1646914020284	OK	 
+REQUEST		Get single record	1646914020153	1646914020284	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646914020198	1646914020329	OK	 
+REQUEST		Searching for new record	1646914020306	1646914020440	OK	 
+REQUEST		Edit record	1646914020494	1646914020625	OK	 
+REQUEST		Opening computers page	1646914020626	1646914020760	OK	 
+REQUEST		Opening new computers page	1646914021274	1646914021405	OK	 
+REQUEST		Opening new computers page	1646914021571	1646914021695	OK	 
+REQUEST		Get single record	1646914021632	1646914021763	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914021647	1646914021774	OK	 
+REQUEST		Edit record	1646914021725	1646914021857	OK	 
+REQUEST		Opening computers page	1646914021858	1646914021991	OK	 
+REQUEST		Get single record	1646914021865	1646914021991	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914022180	1646914022312	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646914022196	1646914022327	OK	 
+REQUEST		Searching for new record	1646914022338	1646914022463	OK	 
+REQUEST		Opening new computers page	1646914022354	1646914022493	OK	 
+REQUEST		Sending new computer info	1646914022416	1646914022547	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646914022448	1646914022575	OK	 
+REQUEST		Opening new computers page	1646914022526	1646914022658	OK	 
+REQUEST		Sending new computer info	1646914022558	1646914022689	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914022574	1646914022706	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914022870	1646914022992	OK	 
+REQUEST		Opening computers page	1646914022992	1646914023115	OK	 
+REQUEST		Edit record	1646914023231	1646914023354	OK	 
+REQUEST		Opening computers page	1646914023355	1646914023479	OK	 
+REQUEST		Sending new computer info	1646914023703	1646914023826	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914023909	1646914024029	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914024033	1646914024154	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914024251	1646914024372	OK	 
+REQUEST		Opening new computers page	1646914024266	1646914024386	OK	 
+REQUEST		Edit record	1646914024328	1646914024449	OK	 
+REQUEST		Opening computers page	1646914024373	1646914024497	OK	 
+REQUEST		Opening computers page	1646914024450	1646914024574	OK	 
+REQUEST		Get single record	1646914024706	1646914024828	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914024722	1646914024844	OK	 
+REQUEST		Opening new computers page	1646914024834	1646914024954	OK	 
+REQUEST		Sending new computer info	1646914024929	1646914025056	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914025068	1646914025190	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914025084	1646914025210	OK	 
+REQUEST		Searching for new record	1646914025084	1646914025210	OK	 
+REQUEST		Opening new computers page	1646914025099	1646914025220	OK	 
+REQUEST		Get single record	1646914025115	1646914025237	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914025131	1646914025253	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646914025210	1646914025332	OK	 
+REQUEST		Opening new computers page	1646914025801	1646914025927	OK	 
+REQUEST		Searching for new record	1646914025973	1646914026096	OK	 
+REQUEST		Sending new computer info	1646914026115	1646914026237	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646914026115	1646914026238	OK	 
+REQUEST		Get single record	1646914026319	1646914026442	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914026256	1646914026635	OK	 
+REQUEST		Sending new computer info	1646914026383	1646914026773	KO	status.find.is(200), but actually found 400
+REQUEST		Sending new computer info	1646914026399	1646914026790	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646914026778	1646914026900	OK	 
+REQUEST		Searching for new record	1646914026825	1646914026947	OK	 
+REQUEST		Edit record	1646914026888	1646914027010	OK	 
+REQUEST		Opening computers page	1646914027010	1646914027134	OK	 
+REQUEST		Get single record	1646914027074	1646914027195	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914027137	1646914027259	OK	 
+REQUEST		Sending new computer info	1646914027201	1646914027325	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914027249	1646914027372	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646914027259	1646914027382	OK	 
+REQUEST		Searching for new record	1646914027327	1646914027447	OK	 
+REQUEST		Sending new computer info	1646914027435	1646914027558	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914027734	1646914027858	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914027871	1646914027993	OK	 
+REQUEST		Opening new computers page	1646914028135	1646914028258	OK	 
+REQUEST		Edit record	1646914028213	1646914028337	OK	 
+REQUEST		Searching for new record	1646914028213	1646914028337	OK	 
+REQUEST		Opening computers page	1646914028337	1646914028460	OK	 
+REQUEST		Get single record	1646914028430	1646914028553	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914028633	1646914028753	OK	 
+REQUEST		Searching for new record	1646914028681	1646914028803	OK	 
+REQUEST		Opening computers page	1646914028754	1646914028875	OK	 
+REQUEST		Get single record	1646914028963	1646914029085	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914029026	1646914029149	OK	 
+REQUEST		Searching for new record	1646914029660	1646914029781	OK	 
+REQUEST		Get single record	1646914029723	1646914029845	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914029754	1646914029873	OK	 
+REQUEST		Opening new computers page	1646914029769	1646914029889	OK	 
+REQUEST		Opening new computers page	1646914029800	1646914029919	OK	 
+REQUEST		Opening computers page	1646914029874	1646914029996	OK	 
+REQUEST		Sending new computer info	1646914029910	1646914030031	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914029987	1646914030107	OK	 
+REQUEST		Get single record	1646914030017	1646914030139	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646914030108	1646914030228	OK	 
+REQUEST		Opening new computers page	1646914030126	1646914030246	OK	 
+REQUEST		Searching for new record	1646914030190	1646914030311	OK	 
+REQUEST		Opening new computers page	1646914030283	1646914030407	OK	 
+REQUEST		Get single record	1646914030799	1646914030918	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914030910	1646914031030	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914031037	1646914031158	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914031208	1646914031330	OK	 
+REQUEST		Edit record	1646914031208	1646914031330	OK	 
+REQUEST		Opening new computers page	1646914031255	1646914031376	OK	 
+REQUEST		Opening computers page	1646914031331	1646914031451	OK	 
+REQUEST		Opening computers page	1646914031331	1646914031453	OK	 
+REQUEST		Edit record	1646914031334	1646914031459	OK	 
+REQUEST		Get single record	1646914031334	1646914031459	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646914031460	1646914031584	OK	 
+REQUEST		Searching for new record	1646914031519	1646914031641	OK	 
+REQUEST		Opening new computers page	1646914031534	1646914031657	OK	 
+REQUEST		Sending new computer info	1646914031882	1646914032004	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914032053	1646914032176	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914032133	1646914032256	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914032437	1646914032576	OK	 
+REQUEST		Opening computers page	1646914032577	1646914032700	OK	 
+REQUEST		Sending new computer info	1646914032577	1646914032705	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914032689	1646914032811	OK	 
+REQUEST		Sending new computer info	1646914032767	1646914032894	KO	status.find.is(200), but actually found 400
+REQUEST		Opening computers page	1646914032812	1646914032931	OK	 
+REQUEST		Edit record	1646914033223	1646914033345	OK	 
+USER	ComputerDB	END	1646914033349
+REQUEST		Sending new computer info	1646914033239	1646914033360	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646914033319	1646914033441	OK	 
+REQUEST		Edit record	1646914033604	1646914033729	OK	 
+REQUEST		Searching for new record	1646914033634	1646914033756	OK	 
+REQUEST		Edit record	1646914033650	1646914033773	OK	 
+REQUEST		Opening computers page	1646914033730	1646914033851	OK	 
+REQUEST		Opening computers page	1646914033773	1646914033898	OK	 
+REQUEST		Opening new computers page	1646914033822	1646914033947	OK	 
+REQUEST		Sending new computer info	1646914033871	1646914033992	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646914034077	1646914034200	OK	 
+REQUEST		Opening new computers page	1646914034093	1646914034214	OK	 
+REQUEST		Edit record	1646914034157	1646914034279	OK	 
+REQUEST		Opening computers page	1646914034279	1646914034406	OK	 
+REQUEST		Get single record	1646914034301	1646914034427	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914034758	1646914034884	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646914035014	1646914035169	OK	 
+REQUEST		Searching for new record	1646914035078	1646914035199	OK	 
+REQUEST		Opening new computers page	1646914035094	1646914035216	OK	 
+REQUEST		Get single record	1646914035488	1646914035610	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646914035564	1646914035685	OK	 
+REQUEST		Searching for new record	1646914035738	1646914035865	OK	 
+REQUEST		Opening new computers page	1646914035850	1646914035972	OK	 
+REQUEST		Searching for new record	1646914035850	1646914035973	OK	 
+REQUEST		Get single record	1646914036039	1646914036162	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914036304	1646914036427	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646914036588	1646914036713	OK	 
+REQUEST		Edit record	1646914036682	1646914036804	OK	 
+REQUEST		Sending new computer info	1646914036682	1646914036804	KO	status.find.is(200), but actually found 400
+USER	ComputerDB	END	1646914036805
+REQUEST		Edit record	1646914036729	1646914036850	OK	 
+REQUEST		Opening new computers page	1646914036729	1646914036855	OK	 
+REQUEST		Opening computers page	1646914036851	1646914036975	OK	 
+REQUEST		Sending new computer info	1646914037060	1646914037183	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646914037237	1646914037358	OK	 
+REQUEST		Get single record	1646914037297	1646914037421	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914037423	1646914037547	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914037514	1646914037638	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914037640	1646914037764	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914037750	1646914037871	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914038161	1646914038282	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914038744	1646914038864	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914038871	1646914038992	OK	 
+REQUEST		Edit record	1646914038919	1646914039041	OK	 
+REQUEST		Opening computers page	1646914039041	1646914039162	OK	 
+REQUEST		Searching for new record	1646914039405	1646914039527	OK	 
+REQUEST		Searching for new record	1646914039502	1646914039622	OK	 
+REQUEST		Searching for new record	1646914039625	1646914039748	OK	 
+REQUEST		Sending new computer info	1646914039658	1646914039780	KO	status.find.is(200), but actually found 400
+REQUEST		Get single record	1646914039735	1646914039857	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646914039751	1646914039877	OK	 
+REQUEST		Edit record	1646914039751	1646914039880	OK	 
+REQUEST		Opening computers page	1646914039880	1646914040006	OK	 
+REQUEST		Edit record	1646914040035	1646914040160	OK	 
+USER	ComputerDB	END	1646914040161
+REQUEST		Searching for new record	1646914040147	1646914040271	OK	 
+REQUEST		Get single record	1646914040305	1646914040429	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914040401	1646914040527	OK	 
+REQUEST		Opening new computers page	1646914040463	1646914040589	OK	 
+REQUEST		Edit record	1646914040747	1646914040869	OK	 
+USER	ComputerDB	END	1646914040870
+REQUEST		Edit record	1646914040905	1646914041030	OK	 
+USER	ComputerDB	END	1646914041031
+REQUEST		Get single record	1646914041097	1646914041229	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914041176	1646914041306	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914041509	1646914041635	OK	 
+USER	ComputerDB	END	1646914041636
+REQUEST		Opening new computers page	1646914041745	1646914041868	OK	 
+REQUEST		Get single record	1646914041760	1646914041883	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914041840	1646914041962	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914042172	1646914042292	OK	 
+REQUEST		Sending new computer info	1646914042267	1646914042388	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914042346	1646914042467	OK	 
+REQUEST		Searching for new record	1646914042426	1646914042551	OK	 
+REQUEST		Opening computers page	1646914042468	1646914042597	OK	 
+REQUEST		Get single record	1646914043201	1646914043330	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914043355	1646914043481	OK	 
+REQUEST		Get single record	1646914043355	1646914043481	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening computers page	1646914043481	1646914043610	OK	 
+REQUEST		Sending new computer info	1646914043991	1646914044115	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914044069	1646914044191	OK	 
+USER	ComputerDB	END	1646914044192
+REQUEST		Edit record	1646914044259	1646914044381	OK	 
+USER	ComputerDB	END	1646914044382
+REQUEST		Get single record	1646914044399	1646914044523	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Opening new computers page	1646914044539	1646914044663	OK	 
+REQUEST		Searching for new record	1646914044571	1646914044694	OK	 
+REQUEST		Get single record	1646914044728	1646914044850	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914044901	1646914045022	OK	 
+USER	ComputerDB	END	1646914045023
+REQUEST		Opening new computers page	1646914044963	1646914045085	OK	 
+REQUEST		Searching for new record	1646914045648	1646914045771	OK	 
+REQUEST		Get single record	1646914045772	1646914045896	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914045867	1646914045990	OK	 
+REQUEST		Opening computers page	1646914045990	1646914046112	OK	 
+REQUEST		Edit record	1646914046292	1646914046413	OK	 
+REQUEST		Opening computers page	1646914046414	1646914046534	OK	 
+REQUEST		Get single record	1646914046815	1646914046937	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914046975	1646914047102	OK	 
+USER	ComputerDB	END	1646914047103
+REQUEST		Sending new computer info	1646914047067	1646914047188	KO	status.find.is(200), but actually found 400
+REQUEST		Edit record	1646914047209	1646914047336	OK	 
+REQUEST		Opening computers page	1646914047336	1646914047470	OK	 
+REQUEST		Sending new computer info	1646914047645	1646914047771	KO	status.find.is(200), but actually found 400
+REQUEST		Opening new computers page	1646914047741	1646914047865	OK	 
+REQUEST		Opening new computers page	1646914048106	1646914048238	OK	 
+REQUEST		Edit record	1646914049313	1646914049434	OK	 
+USER	ComputerDB	END	1646914049435
+REQUEST		Opening new computers page	1646914049377	1646914049499	OK	 
+REQUEST		Sending new computer info	1646914049851	1646914049972	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646914050025	1646914050145	OK	 
+REQUEST		Sending new computer info	1646914050185	1646914050305	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646914050593	1646914050719	OK	 
+REQUEST		Searching for new record	1646914051466	1646914051587	OK	 
+REQUEST		Get single record	1646914051590	1646914051713	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Sending new computer info	1646914052181	1646914052302	KO	status.find.is(200), but actually found 400
+REQUEST		Searching for new record	1646914052323	1646914052446	OK	 
+REQUEST		Get single record	1646914052957	1646914053079	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914053548	1646914053670	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Get single record	1646914053767	1646914053889	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Searching for new record	1646914054537	1646914054659	OK	 
+REQUEST		Edit record	1646914054615	1646914054738	OK	 
+USER	ComputerDB	END	1646914054738
+REQUEST		Edit record	1646914054799	1646914054941	OK	 
+USER	ComputerDB	END	1646914054942
+REQUEST		Edit record	1646914055211	1646914055345	OK	 
+USER	ComputerDB	END	1646914055346
+REQUEST		Edit record	1646914055399	1646914055520	OK	 
+USER	ComputerDB	END	1646914055521
+REQUEST		Get single record	1646914057150	1646914057274	KO	css((td>a,None)).find.is(ARRA), but actually found ACE
+REQUEST		Edit record	1646914059677	1646914059800	OK	 
+USER	ComputerDB	END	1646914059800

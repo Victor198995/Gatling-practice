@@ -1,0 +1,10 @@
+{
+  "simulation": "demoPetClinic.RecordedSimulationByHAR",
+  "simulationId": "recordedsimulationbyhar",
+  "start": 1645555724474,
+  "description": "",
+  "scenarios": ["RecordedSimulationByHAR"],
+  "assertions": [
+
+  ]
+}

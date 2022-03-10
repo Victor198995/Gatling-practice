@@ -1,0 +1,129 @@
+RUN	com.gatling.tests.ComputerDB	computerdb	1646853329030	 	3.7.4
+USER	ComputerDB	START	1646853335775
+USER	ComputerDB	START	1646853335775
+REQUEST		Opening computers page	1646853335804	1646853336408	OK	 
+REQUEST		Opening computers page	1646853335804	1646853336408	OK	 
+USER	ComputerDB	START	1646853337761
+REQUEST		Opening new computers page	1646853337667	1646853337803	OK	 
+REQUEST		Opening computers page	1646853337762	1646853338291	OK	 
+REQUEST		Opening new computers page	1646853338217	1646853338345	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853339540
+USER	ComputerDB	START	1646853339771
+REQUEST		Opening computers page	1646853339771	1646853340268	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853340759
+REQUEST		Opening new computers page	1646853341167	1646853341291	OK	 
+USER	ComputerDB	START	1646853341774
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853341790
+REQUEST		Opening computers page	1646853341774	1646853342284	OK	 
+REQUEST		Opening new computers page	1646853342545	1646853342673	OK	 
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853342940
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853343476
+REQUEST		Opening new computers page	1646853343366	1646853343486	OK	 
+USER	ComputerDB	START	1646853343774
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853343850
+REQUEST		Opening computers page	1646853343775	1646853344279	OK	 
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853344691
+REQUEST		Get single record	1646853344596	1646853344725	OK	 
+REQUEST		Get single record	1646853344978	1646853345111	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853345671
+USER	ComputerDB	START	1646853345768
+REQUEST		Opening computers page	1646853345768	1646853346297	OK	 
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853346584
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853346742
+USER	ComputerDB	END	1646853346744
+USER	ComputerDB	START	1646853346773
+REQUEST		Opening new computers page	1646853346696	1646853346831	OK	 
+REQUEST		Get single record	1646853346711	1646853346845	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853347223
+USER	ComputerDB	END	1646853347224
+REQUEST		Opening computers page	1646853346774	1646853347287	OK	 
+USER	ComputerDB	START	1646853347772
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853347834
+REQUEST		Get single record	1646853347724	1646853347861	OK	 
+REQUEST		Opening computers page	1646853347772	1646853348315	OK	 
+USER	ComputerDB	START	1646853348774
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853348883
+USER	ComputerDB	END	1646853348884
+REQUEST		Opening new computers page	1646853348884	1646853349012	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853349037
+USER	ComputerDB	END	1646853349038
+REQUEST		Opening new computers page	1646853349054	1646853349185	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853349241
+REQUEST		Opening computers page	1646853348774	1646853349318	OK	 
+USER	ComputerDB	START	1646853349764
+REQUEST		Get single record	1646853349936	1646853350063	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853350203
+REQUEST		Opening computers page	1646853349764	1646853350293	OK	 
+USER	ComputerDB	START	1646853350774
+REQUEST		Opening new computers page	1646853350804	1646853350938	OK	 
+REQUEST		Opening new computers page	1646853350410	1646853351181	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853351197
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853351289
+USER	ComputerDB	END	1646853351291
+REQUEST		Opening computers page	1646853350774	1646853351325	OK	 
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853351541
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853351651
+USER	ComputerDB	START	1646853351761
+REQUEST		Opening new computers page	1646853351917	1646853352044	OK	 
+REQUEST		Opening computers page	1646853351762	1646853352289	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853352307
+USER	ComputerDB	START	1646853352759
+REQUEST		Get single record	1646853352744	1646853352877	OK	 
+REQUEST		Opening computers page	1646853352760	1646853353308	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853353319
+REQUEST		Get single record	1646853353319	1646853353445	OK	 
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853353727
+USER	ComputerDB	START	1646853353759
+REQUEST		Opening new computers page	1646853353617	1646853353934	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853353960
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853354084
+REQUEST		Opening computers page	1646853353760	1646853354294	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853354517
+USER	ComputerDB	END	1646853354518
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853354628
+USER	ComputerDB	END	1646853354629
+USER	ComputerDB	START	1646853354771
+REQUEST		Opening computers page	1646853354772	1646853355265	OK	 
+REQUEST		Opening new computers page	1646853355227	1646853355347	OK	 
+REQUEST		Opening new computers page	1646853355243	1646853355365	OK	 
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853355397
+REQUEST		Get single record	1646853355585	1646853355719	OK	 
+REQUEST		Get single record	1646853355647	1646853355778	OK	 
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853355944
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853356226
+REQUEST		Get single record	1646853356955	1646853357081	OK	 
+REQUEST		Opening new computers page	1646853357003	1646853357123	OK	 
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853357272
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853357302
+USER	ComputerDB	END	1646853357303
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853357459
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853357571
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853357681
+USER	ComputerDB	END	1646853357681
+REQUEST		Opening new computers page	1646853357977	1646853358100	OK	 
+REQUEST		Get single record	1646853358152	1646853358286	OK	 
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853358625
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853359221
+ERROR	Sending new computer info: Failed to build request: No attribute named 'computerName' is defined 	1646853359380
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853359741
+USER	ComputerDB	END	1646853359742
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853359756
+USER	ComputerDB	END	1646853359757
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853359993
+REQUEST		Get single record	1646853359930	1646853360062	OK	 
+REQUEST		Get single record	1646853360242	1646853360363	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853361393
+USER	ComputerDB	END	1646853361394
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853361567
+ERROR	Searching for new record: Failed to build request: No attribute named 'computerName' is defined 	1646853362168
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853362231
+USER	ComputerDB	END	1646853362231
+REQUEST		Get single record	1646853362704	1646853362840	OK	 
+REQUEST		Get single record	1646853363819	1646853363949	OK	 
+REQUEST		Get single record	1646853364556	1646853364696	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853365099
+USER	ComputerDB	END	1646853365100
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853365651
+USER	ComputerDB	END	1646853365652
+ERROR	Edit record: Failed to build request: No attribute named 'computerName' is defined 	1646853365905
+USER	ComputerDB	END	1646853365906

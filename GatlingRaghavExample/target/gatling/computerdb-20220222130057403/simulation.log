@@ -1,0 +1,10 @@
+RUN	com.gatling.tests.ComputerDB	computerdb	1645534857403	 	3.7.4
+USER	ComputerDB	START	1645534858389
+REQUEST		Opening computers page	1645534858411	1645534858878	OK	 
+REQUEST		Opening new computers page	1645534860216	1645534860332	OK	 
+REQUEST		Sending new computer info	1645534861688	1645534861808	OK	 
+REQUEST		Sending new computer info Redirect 1	1645534861818	1645534861936	OK	 
+REQUEST		Searching for new record	1645534864853	1645534864971	OK	 
+REQUEST		Get single record	1645534867214	1645534867328	KO	status.find.in([200, 209], 304), found 404
+REQUEST		Delete record	1645534869474	1645534869591	KO	status.find.in([200, 209], 304), found 404
+USER	ComputerDB	END	1645534869595

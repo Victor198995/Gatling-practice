@@ -1,0 +1,145 @@
+RUN	com.gatling.tests.ComputerDB	computerdb	1646828645958	 	3.7.4
+USER	ComputerDB	START	1646828652175
+USER	ComputerDB	START	1646828652175
+REQUEST		Opening computers page	1646828652200	1646828652710	OK	 
+REQUEST		Opening computers page	1646828652200	1646828652710	OK	 
+USER	ComputerDB	START	1646828654176
+REQUEST		Opening new computers page	1646828654300	1646828654423	OK	 
+REQUEST		Opening computers page	1646828654177	1646828654658	OK	 
+REQUEST		Opening new computers page	1646828655041	1646828655170	OK	 
+REQUEST		Opening new computers page	1646828655985	1646828656109	OK	 
+USER	ComputerDB	START	1646828656172
+REQUEST		Opening computers page	1646828656173	1646828656664	OK	 
+REQUEST		Sending new computer info	1646828657260	1646828657388	OK	 
+REQUEST		Sending new computer info	1646828657381	1646828657509	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828657398	1646828657525	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828657510	1646828657642	OK	 
+USER	ComputerDB	START	1646828658167
+REQUEST		Opening computers page	1646828658167	1646828658653	OK	 
+REQUEST		Opening new computers page	1646828658597	1646828658726	OK	 
+REQUEST		Sending new computer info	1646828658767	1646828658890	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828658891	1646828659014	OK	 
+USER	ComputerDB	START	1646828660170
+REQUEST		Searching for new record	1646828660344	1646828660470	OK	 
+REQUEST		Searching for new record	1646828660448	1646828660579	OK	 
+REQUEST		Opening computers page	1646828660171	1646828660658	OK	 
+REQUEST		Searching for new record	1646828660619	1646828660759	OK	 
+REQUEST		Sending new computer info	1646828660711	1646828660835	OK	 
+REQUEST		Opening new computers page	1646828660787	1646828660921	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828660836	1646828660963	OK	 
+REQUEST		Opening new computers page	1646828661903	1646828662046	OK	 
+USER	ComputerDB	START	1646828662164
+REQUEST		Get single record	1646828662102	1646828662229	OK	 
+REQUEST		Searching for new record	1646828662195	1646828662331	OK	 
+REQUEST		Opening computers page	1646828662165	1646828662663	OK	 
+REQUEST		Get single record	1646828662672	1646828662798	OK	 
+REQUEST		Get single record	1646828662923	1646828663056	OK	 
+USER	ComputerDB	START	1646828663169
+REQUEST		Sending new computer info	1646828663263	1646828663391	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828663391	1646828663517	OK	 
+REQUEST		Opening computers page	1646828663171	1646828663670	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828663713
+USER	ComputerDB	END	1646828663715
+REQUEST		Sending new computer info	1646828663773	1646828663899	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828663900	1646828664040	OK	 
+USER	ComputerDB	START	1646828664176
+REQUEST		Get single record	1646828664222	1646828664373	OK	 
+REQUEST		Opening computers page	1646828664178	1646828664682	OK	 
+USER	ComputerDB	START	1646828665180
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828665443
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828665443
+USER	ComputerDB	END	1646828665444
+USER	ComputerDB	END	1646828665444
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828665630
+USER	ComputerDB	END	1646828665631
+REQUEST		Opening computers page	1646828665181	1646828665668	OK	 
+REQUEST		Opening new computers page	1646828665646	1646828665780	OK	 
+REQUEST		Opening new computers page	1646828666031	1646828666152	OK	 
+USER	ComputerDB	START	1646828666171
+REQUEST		Searching for new record	1646828666094	1646828666214	OK	 
+REQUEST		Searching for new record	1646828666186	1646828666307	OK	 
+REQUEST		Opening new computers page	1646828666479	1646828666599	OK	 
+REQUEST		Opening computers page	1646828666171	1646828666648	OK	 
+USER	ComputerDB	START	1646828667177
+REQUEST		Sending new computer info	1646828667099	1646828667220	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828667221	1646828667343	OK	 
+REQUEST		Sending new computer info	1646828667454	1646828667574	OK	 
+REQUEST		Opening computers page	1646828667177	1646828667662	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828667574	1646828667701	OK	 
+REQUEST		Opening new computers page	1646828668038	1646828668160	OK	 
+USER	ComputerDB	START	1646828668180
+REQUEST		Opening new computers page	1646828668100	1646828668220	OK	 
+REQUEST		Opening computers page	1646828668180	1646828668659	OK	 
+REQUEST		Get single record	1646828668698	1646828668818	OK	 
+REQUEST		Searching for new record	1646828668899	1646828669020	OK	 
+USER	ComputerDB	START	1646828669165
+REQUEST		Get single record	1646828669056	1646828669181	OK	 
+REQUEST		Sending new computer info	1646828669165	1646828669286	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828669286	1646828669407	OK	 
+REQUEST		Opening computers page	1646828669165	1646828669659	OK	 
+REQUEST		Sending new computer info	1646828669719	1646828669839	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828669839	1646828669962	OK	 
+USER	ComputerDB	START	1646828670163
+REQUEST		Opening new computers page	1646828670087	1646828670211	OK	 
+REQUEST		Searching for new record	1646828670179	1646828670303	OK	 
+REQUEST		Get single record	1646828670443	1646828670565	OK	 
+REQUEST		Opening computers page	1646828670164	1646828670650	OK	 
+REQUEST		Searching for new record	1646828670799	1646828670920	OK	 
+REQUEST		Sending new computer info	1646828670845	1646828670967	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828670998
+USER	ComputerDB	END	1646828670999
+REQUEST		Sending new computer info Redirect 1	1646828670968	1646828671089	OK	 
+USER	ComputerDB	START	1646828671169
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828671245
+USER	ComputerDB	END	1646828671246
+REQUEST		Opening new computers page	1646828671415	1646828671539	OK	 
+REQUEST		Opening new computers page	1646828671509	1646828671630	OK	 
+REQUEST		Opening computers page	1646828671169	1646828671657	OK	 
+REQUEST		Get single record	1646828671571	1646828671693	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828671752
+USER	ComputerDB	END	1646828671753
+REQUEST		Sending new computer info	1646828671722	1646828671843	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828671844	1646828671966	OK	 
+REQUEST		Searching for new record	1646828671984	1646828672108	OK	 
+REQUEST		Searching for new record	1646828672707	1646828672829	OK	 
+REQUEST		Opening new computers page	1646828673065	1646828673187	OK	 
+REQUEST		Get single record	1646828673606	1646828673729	OK	 
+REQUEST		Sending new computer info	1646828673622	1646828673741	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828673742	1646828673870	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828673897
+USER	ComputerDB	END	1646828673898
+REQUEST		Searching for new record	1646828673805	1646828673928	OK	 
+REQUEST		Get single record	1646828673820	1646828673947	OK	 
+REQUEST		Opening new computers page	1646828673945	1646828674070	OK	 
+REQUEST		Sending new computer info	1646828674534	1646828674657	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828675014
+USER	ComputerDB	END	1646828675015
+REQUEST		Sending new computer info Redirect 1	1646828674657	1646828675111	OK	 
+REQUEST		Get single record	1646828675261	1646828675382	OK	 
+REQUEST		Sending new computer info	1646828675339	1646828675460	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828675460	1646828675586	OK	 
+REQUEST		Sending new computer info	1646828675554	1646828675675	OK	 
+REQUEST		Sending new computer info Redirect 1	1646828675675	1646828675802	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828675873
+USER	ComputerDB	END	1646828675874
+REQUEST		Get single record	1646828675767	1646828675897	OK	 
+REQUEST		Searching for new record	1646828676148	1646828676271	OK	 
+REQUEST		Searching for new record	1646828676715	1646828676837	OK	 
+REQUEST		Searching for new record	1646828677196	1646828677318	OK	 
+REQUEST		Searching for new record	1646828677426	1646828677549	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828677717
+USER	ComputerDB	END	1646828677717
+REQUEST		Get single record	1646828677702	1646828677825	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828678180
+USER	ComputerDB	END	1646828678181
+REQUEST		Get single record	1646828679050	1646828679175	OK	 
+REQUEST		Get single record	1646828679748	1646828679873	OK	 
+REQUEST		Get single record	1646828679811	1646828679933	OK	 
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828680368
+USER	ComputerDB	END	1646828680369
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828681219
+USER	ComputerDB	END	1646828681220
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828681575
+USER	ComputerDB	END	1646828681576
+ERROR	Edit record: Failed to build request: No attribute named 'computerID' is defined 	1646828682534
+USER	ComputerDB	END	1646828682534
